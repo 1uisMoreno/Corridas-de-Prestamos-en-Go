@@ -9,7 +9,7 @@ Ejemplo de salida:
 
 ![Image text](https://github.com/1uisMoreno/Corridas-de-Prestamos-en-Go/blob/master/SS%20Output.png)
 
-El primer argumento es el producto (EFECTIVO, BIENES MUEBLES, BIENES INMUEBLES).
+El primer argumento es el producto (EFECTIVO, BIENES MUEBLES, BIENES INMUEBLES)\n
 El segundo es la cantidad a prestar.
 Luego el plazo del prestamo.
 Por ultimo la opcion de los pagos (Fijos o Decrecientes).
